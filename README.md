@@ -1,3 +1,3 @@
-# Customers Credit Risk Analysis
+# Customers Credit Risk Modelling
 
-There's an Article on this, check it out here: https://medium.com/@whynniethegr8/credit-risk-modelling-part-i-39dea4e86f51
+I wrote an article based on the topic on Medium, Check it out [here!](https://medium.com/@whynniethegr8/credit-risk-modelling-part-i-39dea4e86f51)
